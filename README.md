@@ -1,6 +1,6 @@
 # Scheme Compiler
 
-Compiler from Scheme to Assembly X86_64 mostly written in Ocaml\
+Compiler from Scheme to Assembly X86_64 - written in Ocaml and Assembly X86_64\
 The compiler support all Scheme syntax and more (e.g. interpolated strings)
 
 ## Testing the Reader 
